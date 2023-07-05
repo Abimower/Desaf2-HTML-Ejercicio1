@@ -1,0 +1,36 @@
+
+:root {
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-family: var(--fuenteprincipal);
+  font-weight: 700;
+  font-size: 78.6px;
+  color: #0a2ff1;
+}
+
+strong {
+  background-color: #3ffff3;
+}
+
+p {
+  font-family: var(--fuenteprincipal);
+  font-weight: 500;
+  color: #0a2ff1;
+  font-size: 30.6px;
+}
+
+article {
+  background-color: #8a9af1;
+  width: 300px;
+  display: inline;
+  padding-top: 90px;
+}
+
+img {
+  width: 310px;
+}
+body{
+    background-image: url(C:\desarrollo\Desafios\Desafio2\Ejercicio1\fondo.JPG)
+}
